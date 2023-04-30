@@ -1,16 +1,15 @@
 {
 	"folders": [
 		{
-			"name": "d3pendable",
 			"path": "."
-		},
-		{
-			"name": "Java-Test",
-			"path": "../Java-Test"
 		},
 		{
 			"name": "Python-Test",
 			"path": "../Python-Test"
+		},
+		{
+			"name": "Java-Test",
+			"path": "../Java-Test"
 		}
 	],
 	"settings": {}
