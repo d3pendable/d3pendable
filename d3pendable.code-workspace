@@ -10,6 +10,9 @@
 		{
 			"name": "Java-Test",
 			"path": "../Java-Test"
+		},
+		{
+			"path": "../Docker Compose"
 		}
 	],
 	"settings": {}
