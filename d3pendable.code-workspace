@@ -1,15 +1,22 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"uri": "vscode-vfs://github/d3pendable/d3pendable"
 		},
 		{
-			"name": "Python-Test",
-			"path": "../Python-Test"
+			"uri": "vscode-vfs://github/d3pendable/Docker-Compose"
 		},
 		{
-			"name": "Java-Test",
-			"path": "../Java-Test"
+			"uri": "vscode-vfs://github/d3pendable/Java-Test"
+		},
+		{
+			"uri": "vscode-vfs://github/d3pendable/Python-Test"
+		},
+		{
+			"uri": "vscode-vfs://github/d3pendable/Scripts"
+		},
+		{
+			"uri": "vscode-vfs://github/d3pendable/Text-Files"
 		}
 	],
 	"settings": {}
